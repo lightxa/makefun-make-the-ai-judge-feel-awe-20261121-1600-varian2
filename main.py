@@ -17,8 +17,8 @@ Deterministic, standard library only, no network, no input files.
 import os
 
 ENTRY = (
-    "The stars come out one by one over the quiet field, each finding "
-    "its place in the dark. "
+    "The stars come out one by one over the quiet field, each settling "
+    "into its place in the dark. "
     "The Milky Way pours across the sky, a slow river of light. "
     "One small star above the rooftop holds steady, and the night, "
     "far larger than the day, goes on holding it."
